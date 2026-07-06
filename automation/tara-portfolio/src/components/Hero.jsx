@@ -1,5 +1,5 @@
 import { TAGLINE } from '../constants'
-import profilePic from '../assets/logo.jpeg'
+import profile from '../assets/profile.jpeg'
 
 function Hero() {
   return (
@@ -27,7 +27,7 @@ function Hero() {
       </div>
 
       <img
-        src={profilePic}
+        src={profile}
         alt="Tharunika"
         className="w-48 h-48 sm:w-64 sm:h-64 md:w-72 md:h-72 rounded-2xl object-cover shadow-lg shrink-0"
       />
