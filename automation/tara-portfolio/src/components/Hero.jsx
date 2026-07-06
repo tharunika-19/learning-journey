@@ -11,6 +11,9 @@ function Hero() {
         <span className="text-sm font-semibold uppercase tracking-wide text-brass">
           {TAGLINE}
         </span>
+        <p className="text-ink/60 text-sm font-medium">
+                         Tharunika Bodasu
+        </p>
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-display font-bold text-ink leading-tight">
           I build systems that run your business while you sleep.
         </h1>

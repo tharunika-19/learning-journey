@@ -16,7 +16,7 @@ const About = () => {
           </h2>
 
           <p className="font-body text-[--color-navy]/80 leading-relaxed mb-4">
-            I'm an AI automation engineer building n8n workflows that solve real
+            I'm Tharunika,an AI automation engineer building n8n workflows that solve real
             operational problems — lead qualification, appointment booking,
             customer support — the kind of systems businesses actually run on,
             not demos that stay in a portfolio.
