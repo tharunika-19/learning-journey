@@ -60,7 +60,7 @@ const Contact = () => {
     {
       name: "Fiverr",
       sub: "View gigs & reviews",
-      href: "https://www.fiverr.com/users/tharunikabodasu/",
+      href: "https://www.linkedin.com/in/tharunika-bodasu/",
       icon: "fiverr",
     },
   ];
